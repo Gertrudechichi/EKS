@@ -45,8 +45,7 @@ In a scenario where you have a workload that requires running containers on mult
 
 
 
-![image alt]
-(https://github.com/Gertrudechichi/EKS/blob/577a8d9c5bf5808749aca11b9fe46ff0527689c4/Screenshot%202025-05-21%20123353.png)
+![image alt](https://github.com/Gertrudechichi/EKS/blob/577a8d9c5bf5808749aca11b9fe46ff0527689c4/Screenshot%202025-05-21%20123353.png)
 
 
 
